@@ -28,4 +28,10 @@ Criar uma página web para a nossa escola que exiba informações dos cursos FIC
   - Uma imagem refrente ao curso.
 
 - Footer - Nome da squad e copyright 2021;
+
+### **Imagens:**
   
+<img src="imagens/print1.jpg">
+<img src="imagens/print2.jpg">
+<img src="imagens/print3.jpg">
+<img src="imagens/print4.jpg">

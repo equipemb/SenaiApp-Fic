@@ -27,8 +27,8 @@ Criar uma página web para a nossa escola que exiba informações dos cursos FIC
 
 #### - Elementos:
 
-- Header - Nome completo da escola e logo.
-- HomePage - Três Cards exibindo:
+- **Header** - Nome completo da escola e logo.
+- **HomePage** - Três Cards exibindo:
   
   - Titulo.
   - Duração.
@@ -39,6 +39,6 @@ Criar uma página web para a nossa escola que exiba informações dos cursos FIC
 <img src="imagens/print3.jpg">
 
 
-- Footer - Nome da squad e copyright 2021;
+- **Footer** - Nome da squad e copyright 2021;
 
 <img src="imagens/print4.jpg">

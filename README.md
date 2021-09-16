@@ -20,6 +20,7 @@ Criar uma página web para a nossa escola que exiba informações dos cursos FIC
 
 ## **Organização:**
 A equipe decidiu que todos iriam participar do processo da criação e estilização do React, logo todos fizeram os mesmo passos.
+[link do Trello](https://trello.com/b/2QcGesSF/p%C3%A1gina-web-cursos-fic)
 
 <img src="imagens/trello.jpg">
 

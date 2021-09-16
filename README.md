@@ -17,6 +17,14 @@ Criar uma página web para a nossa escola que exiba informações dos cursos FIC
 
 4. Estilizar todos os componentes.
 ---
+
+## **Organização:**
+A equipe decidiu que todos iriam participar do processo da criação e estilização do React, logo todos fizeram os mesmo passos.
+
+<img src="imagens/trello.jpg">
+
+---
+
 ## **Conteúdo:**
 
 

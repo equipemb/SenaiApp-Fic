@@ -20,18 +20,24 @@ Criar uma página web para a nossa escola que exiba informações dos cursos FIC
 ### **Conteúdo:**
 
 - Header - Nome completo da escola e logo.
+<img src="imagens/print3.jpg">
+
 - HomePage - Três Cards exibindo:
   
   - Titulo.
   - Duração.
   - Preço.
   - Uma imagem refrente ao curso.
+ <img src="imagens/print1.jpg">
+<img src="imagens/print2.jpg">
+
+
 
 - Footer - Nome da squad e copyright 2021;
 
+<img src="imagens/print4.jpg">
+
 ### **Imagens:**
   
-<img src="imagens/print1.jpg">
-<img src="imagens/print2.jpg">
-<img src="imagens/print3.jpg">
-<img src="imagens/print4.jpg">
+
+

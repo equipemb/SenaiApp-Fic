@@ -1,0 +1,26 @@
+.card-container {
+    border: none;
+    border-radius: 6px;
+    width: 300px;
+    height: 450px;
+    background-color: #B0E0E6;
+    margin: 40px;
+    padding: 8px;
+;}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+img{
+    width: 250px;
+    margin-left: 7%;
+}
+
+p{
+    margin-left: 4%;
+}

@@ -1,0 +1,20 @@
+header{
+    background-color:#B0E0E6;
+    color: #475754;
+    height: 300px;
+    display:inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+img.logo{
+    width: 200px;
+    margin-top: 1%;
+}
+
+strong.text{
+    font-size: 40px;
+    text-align: center;
+    margin-left: 3%;
+    color: whitesmoke;
+}

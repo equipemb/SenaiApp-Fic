@@ -1,0 +1,19 @@
+.home-page{
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+h1{
+    color: #475754;
+    text-align: center;
+}
+
+h2{
+    color: #475754;
+    text-align: center;
+}
+

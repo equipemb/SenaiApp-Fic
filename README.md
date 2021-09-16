@@ -27,5 +27,5 @@ Criar uma página web para a nossa escola que exiba informações dos cursos FIC
   - Preço.
   - Uma imagem refrente ao curso.
 
-- Footer - Exiba o nome da escola, nome da squad e copyright 2021;
+- Footer - Nome da squad e copyright 2021;
   
